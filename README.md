@@ -1,10 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=false&random=false&width=335&lines=%F0%9F%91%8B%2C+Mohammed+Faroouq;Bazooka" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a></h1>
-
-
-<h3 align="center">
-  <!--Mohammed Faroouq-->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=false&random=false&width=335&lines=%F0%9F%91%8B%2C Mohammed+Faroouq;Bazooka" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a></h1>
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
