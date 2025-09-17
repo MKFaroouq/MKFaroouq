@@ -3,16 +3,28 @@
 
 
 <h3 align="center">
-  Mohammed Faroouq
+  <!--Mohammed Faroouq-->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Oracle%20Developer;Data+Analyst;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 
+<p align="center"> <!-- Name -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Mohammed+Faroouq;Bazooka" alt="Typing SVG" /></a>
+</p>
+
+<p align="center"> <!-- Job -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Oracle+Developer;Data+Analyst;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+
+<!-- same svg
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71E6E&width=435&lines=Software+Engineer;Oracle+Developer;Data+Analyst" alt="Typing SVG" /></a>
+-->
+
+
  <!-- -  🏢 I'm a Software Engineer Student @Alx_Africa -->
-- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
+- 💻 I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 Passionate about data and backend development.
+- 🎯 Wasting my time to save other people's time.
 <!-- - ⚡ Fun Fact: I'm a Tea enthusiast and my perfect day would start and end with a cup of Tea. -->
