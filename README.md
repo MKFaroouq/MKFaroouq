@@ -4,7 +4,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center"> <!-- Job -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Software+Engineer;Oracle+Developer;Data+Analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7617B&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Software+Engineer;Oracle+Developer;Data+Analyst" alt="Typing SVG" /></a>
 </p> 
 
 
